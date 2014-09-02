@@ -13,8 +13,7 @@
 
 
 ![alt text](http://media.marketwire.com/attachments/201109/19953_coeus-solutions.eps.jpg "Logo Title Text 1")
-
-  * [Bootcamp 2014](#bootcamp-2014)
+* [Bootcamp 2014](#bootcamp-2014)
     * [Milestone Week 1](#milestone-week-1)
       * [Individual Assignment 4](#individual-assignment-4)
     * [Top IDEs](#top-ides)
@@ -68,6 +67,7 @@
     * [**Initial learning curve**](#**initial-learning-curve**)
     * [**Asymptotic learning curve**](#**asymptotic-learning-curve**)
 * [**IDE of my Choice**](#**ide-of-my-choice**)
+
 
 ![alt text](http://hackadaycom.files.wordpress.com/2010/08/visual-studio-2010-ultimate.jpg?w=580&h=402 "Logo Title Text 1")
 
